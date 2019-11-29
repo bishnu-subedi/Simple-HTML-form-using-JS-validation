@@ -1,6 +1,6 @@
 function Validation()                                    
 { 
-    var account = document.forms["myForm"]["Account No"];      //Declaring variable "account"
+    var account = document.forms["myForm"]["Account No"];     //Declaring variable "account"
    
     if (account.value == "")                                  
     { 
